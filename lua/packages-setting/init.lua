@@ -1,0 +1,7 @@
+require('packages-setting/mason')
+require('packages-setting/syntax')
+require('packages-setting/telescope-search')
+require('packages-setting/treesitter')
+require('packages-setting/vimspector')
+require('packages-setting/cmp-autocomplete')
+require('packages-setting/rust-tools')
